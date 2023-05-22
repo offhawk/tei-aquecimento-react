@@ -1,7 +1,7 @@
 # Mini-Projeto: Construção de uma Portal de Notícias
 
-**Valor**: 10 pontos
-**Forma de Entrega**: Pull Request neste repositório
+**Valor**: 10 pontos<br>
+**Forma de Entrega**: Pull Request neste repositório<br>
 **Modalidade:** Individual, duplas ou trios
 
 **Observação**: A atividade pode ser feita em duplas ou trios, mas a avaliação é individual. Cada pessoa deverá fazer o seu Pull Request. O envolvimento das pessoas durante a atividade em sala será observado, e caso a pessoa não participe ativamente da produção da atividade, a nota será ZERADA. Mesmo com entrega do PR.
