@@ -1,4 +1,4 @@
-# Mini-Projeto: Construção de uma Portal de Notícias
+# Mini-Projeto: Construção de um Portal de Notícias
 
 **Valor**: 10 pontos<br>
 **Forma de Entrega**: Pull Request neste repositório<br>
