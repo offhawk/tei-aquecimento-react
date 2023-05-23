@@ -2,9 +2,8 @@
 
 **Valor**: 10 pontos<br>
 **Forma de Entrega**: Pull Request neste repositório<br>
-**Modalidade:** Individual, duplas ou trios
-
-**Observação**: A atividade pode ser feita em duplas ou trios, mas a avaliação é individual. Cada pessoa deverá fazer o seu Pull Request. O envolvimento das pessoas durante a atividade em sala será observado, e caso a pessoa não participe ativamente da produção da atividade, a nota será ZERADA. Mesmo com entrega do PR.
+**Modalidade:** Individual
+**Data limite de entrega:** 26/05/2023
 <hr>
 
 O objetivo é criar uma página web que exiba informações sobre notícias em geral.
