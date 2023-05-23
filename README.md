@@ -2,7 +2,7 @@
 
 **Valor**: 10 pontos<br>
 **Forma de Entrega**: Pull Request neste repositório<br>
-**Modalidade:** Individual
+**Modalidade:** Individual<br>
 **Data limite de entrega:** 26/05/2023
 <hr>
 
